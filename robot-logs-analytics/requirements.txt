@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+openpyxl>=3.1
+# Airflow ставится отдельно (через docker-compose.yml), в requirements не входит
